@@ -18,7 +18,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main {
-        background-image: url('https://i.ibb.co/TBtHnkzK/62dfe1b3d1a831062d951d680bced0e6.jpg');
+        background-image: url('https://ibb.co/Q7Z2DPbB');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
