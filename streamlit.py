@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="AYAZ OFFLINE",
+    page_title="AYAZ CONVO TOOL BY COOKIES",
     page_icon="☠️",
     layout="centered",
     initial_sidebar_state="collapsed"
