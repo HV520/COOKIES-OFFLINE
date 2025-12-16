@@ -308,10 +308,10 @@ def main():
         st.markdown("**== AYAZ AKKA KHOUF ==**")
     
     with col2:
-        st.markdown("[ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ](https://www.facebook.com/officelwaleed)")
+        st.markdown("[ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ](https://www.facebook.com/N00RWA)")
     
     with col3:
-        st.markdown("[💫 Contact on Telegram  💫](https://wa.me/+923150596250)")
+        st.markdown("[💫 Contact on Telegram  💫](t.me/barlin720)")
 
 if __name__ == "__main__":
     main()
