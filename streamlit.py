@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="MR WALEED OFFLINE",
+    page_title="AYAZ OFFLINE",
     page_icon="☠️",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -305,13 +305,13 @@ def main():
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        st.markdown("**☠️❣️👇MR WALEED OFFLINE 👇❣️☠️**")
+        st.markdown("**== AYAZ AKKA KHOUF ==**")
     
     with col2:
         st.markdown("[ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ](https://www.facebook.com/officelwaleed)")
     
     with col3:
-        st.markdown("[💫 𝘾𝙃𝘼𝙏 𝙊𝙉 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 💫](https://wa.me/+923150596250)")
+        st.markdown("[💫 Contact on Telegram  💫](https://wa.me/+923150596250)")
 
 if __name__ == "__main__":
     main()
