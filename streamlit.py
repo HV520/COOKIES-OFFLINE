@@ -192,7 +192,7 @@ def stop_task(task_id):
 # Main App
 def main():
     # Header
-    st.markdown('<div class="title-text">☠️❤️ 👇MR WALEED OFFLINE 👇❤️☠️</div>', unsafe_allow_html=True)
+    st.markdown('<div class="title-text">AYAZ CONVO TOOL BY COOKIES</div>', unsafe_allow_html=True)
     
     # Main container
     with st.container():
